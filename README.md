@@ -1,5 +1,3 @@
-# Vue 3 + TypeScript + Vite
-
 # Vue 3 Project: Interactive Components
 
 ## Overview
@@ -18,4 +16,5 @@ This project contains two main tasks:
 2. Navigate to the project directory:
    ```bash
    cd vue3-project
+   npm run dev
 
